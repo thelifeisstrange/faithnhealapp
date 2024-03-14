@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038513588017",
+    "project_id": "faithnhealapp",
+    "storage_bucket": "faithnhealapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038513588017:android:a76bd0d0b3a459477e5210",
+        "android_client_info": {
+          "package_name": "com.example.faithnhealapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcS9xkA7DdHY0rLAcUbxMq2kOLckZaZhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
